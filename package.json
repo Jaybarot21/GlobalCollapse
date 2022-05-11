@@ -342,7 +342,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
     "@ckeditor/ckeditor5-build-classic": "^16.0.0",
-    "@ckeditor/ckeditor5-ckfinder": "^26.0.0",
+    "@ckeditor/ckeditor5-ckfinder": "^27.0.0",
     "axette": "^1.1.7",
     "choices.js": "^9.0.1",
     "core-js": "^3.6.5",
