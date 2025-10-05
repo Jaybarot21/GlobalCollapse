@@ -345,7 +345,7 @@
     "@ckeditor/ckeditor5-ckfinder": "^26.0.0",
     "axette": "^1.1.7",
     "choices.js": "^9.0.1",
-    "core-js": "^3.6.5",
+    "core-js": "^3.45.1",
     "easytimer.js": "^4.3.0",
     "flatpickr": "^4.6.3",
     "howler": "^2.2.3",
